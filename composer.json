@@ -1,0 +1,21 @@
+{
+  "name": "chesterlyd/thinkphp-auth",
+  "description": "thinkphp5.1 Auth类",
+  "license": "MIT",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "chesterlyd",
+      "email": "1621259898@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "topthink/framework": "5.1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "think\\": "src"
+    }
+  }
+}
