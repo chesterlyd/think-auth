@@ -8,7 +8,7 @@
 // +----------------------------------------------------------------------
 // | Author: luofei614 <weibo.com/luofei614>　
 // +----------------------------------------------------------------------
-namespace shu;
+namespace think;
 use think\facade\Config;
 use think\Db;
 use think\Request;
